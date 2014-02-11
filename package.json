@@ -3,8 +3,13 @@
   "version": "0.0.0",
   "description": "Proxy S3 Bucket Requests",
   "main": "app.js",
-  "scripts": {
-  },
+  "scripts": {},
   "author": "Dru Riley",
-  "license": "BSD-2-Clause"
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "jasmine-node": "~1.13.1",
+    "express": "~3.4.8",
+    "superagent": "~0.16.0",
+    "request": "~2.33.0"
+  }
 }
