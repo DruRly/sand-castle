@@ -1,0 +1,10 @@
+{
+  "name": "sand-castle",
+  "version": "0.0.0",
+  "description": "Proxy S3 Bucket Requests",
+  "main": "app.js",
+  "scripts": {
+  },
+  "author": "Dru Riley",
+  "license": "BSD-2-Clause"
+}
