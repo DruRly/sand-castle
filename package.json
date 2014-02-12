@@ -10,6 +10,7 @@
     "jasmine-node": "~1.13.1",
     "express": "~3.4.8",
     "superagent": "~0.16.0",
-    "request": "~2.33.0"
+    "request": "~2.33.0",
+    "express-cache-control": "~1.0.2"
   }
 }
